@@ -46,6 +46,11 @@ a:hover {
   color:#2FB8C5;
 }
 
+
+ul {
+  padding-inline-start: 0px;
+}
+
 .list-inline {
   list-style: none;
   padding-left: 0px;
@@ -53,7 +58,7 @@ a:hover {
 
 li {
     display: inline;
-    padding: 10px;
+    padding: 8px;
 }
 
 @media (max-width: 960px) {
